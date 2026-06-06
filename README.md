@@ -1,4 +1,4 @@
-# The Kinetic Codex: Chromatic Dispersion Simulator
+# Prism Chromatic Dispersion Simulator
 [![Live Demo](https://img.shields.io/badge/Launch-Live_Simulation-FF4B4B?style=for-the-badge&logo=streamlit)](https://prism-chromatic-dispersion-jvvjk5vumsrnnxuwma9jaa.streamlit.app/)
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
